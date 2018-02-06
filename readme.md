@@ -33,13 +33,13 @@ show much better result on 32x32 data. Also converges much faster than ordinary 
 
 ## Usage
 
-On your console/teriminal, type
+On your console/terminal, type
 
 ````python
 python main.py
 ````
 
-##TODO
+## TODO
 - revise custom loss(doesn't update its state for long iteration)
 - clamp networks' gradient
 - apply to more datasets
